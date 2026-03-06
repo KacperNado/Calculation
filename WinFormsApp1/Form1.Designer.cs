@@ -89,7 +89,7 @@
             // 
             // Dodaj
             // 
-            Dodaj.Location = new Point(220, 153);
+            Dodaj.Location = new Point(231, 153);
             Dodaj.Name = "Dodaj";
             Dodaj.Size = new Size(75, 23);
             Dodaj.TabIndex = 6;
