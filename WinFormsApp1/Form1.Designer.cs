@@ -99,7 +99,7 @@
             // 
             // Odejmij
             // 
-            Odejmij.Location = new Point(310, 153);
+            Odejmij.Location = new Point(309, 153);
             Odejmij.Name = "Odejmij";
             Odejmij.Size = new Size(75, 23);
             Odejmij.TabIndex = 7;
