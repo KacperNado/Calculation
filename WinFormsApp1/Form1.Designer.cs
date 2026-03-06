@@ -66,7 +66,7 @@
             // 
             // txtSecNo
             // 
-            txtSecNo.Location = new Point(231, 124);
+            txtSecNo.Location = new Point(230, 121);
             txtSecNo.Name = "txtSecNo";
             txtSecNo.Size = new Size(154, 23);
             txtSecNo.TabIndex = 3;
